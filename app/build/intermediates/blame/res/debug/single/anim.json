@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/tkkg1994/.android/build-cache/8eb0a7eef32209e438aac19610d7cd588766620a/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/tkkg1994/.android/build-cache/8eb0a7eef32209e438aac19610d7cd588766620a/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/tkkg1994/.android/build-cache/8eb0a7eef32209e438aac19610d7cd588766620a/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/tkkg1994/.android/build-cache/8eb0a7eef32209e438aac19610d7cd588766620a/output/res/anim/design_fab_in.xml"
+    }
+]

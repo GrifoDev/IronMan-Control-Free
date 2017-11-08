@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/layout-land/reboot_layout.xml",
+        "source": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/src/main/res/layout-land/reboot_layout.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/layout-land/dialog_color_picker.xml",
+        "source": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/src/main/res/layout-land/dialog_color_picker.xml"
+    }
+]

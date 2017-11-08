@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Do not forget to include this in any locale specific folders for translation-->
+
+    <!--In the following array put your changelog items
+    Take as many lines as you need.
+    Add as many items as you want or delete some if those are too many
+    This order is how they will appear in the dialog
+    Make any order you want from top to bottom-->
+    <string-array name="changelog_items" translatable="false">
+        <item>Based on latest AQI7 release</item>
+        <item>Latest August patch with blueborne fix</item>
+        <item>Updated Magisk to 14.2</item>
+        <item>Added listview animation to romcontrol credits to asc1977</item>
+        <item>SuperSU updated to 2.82 SR5</item>
+        <item>Fixed game launcher crashing thanks to Grouxho</item>
+        <item>All kernels updated to AQI7 version</item>
+        <item>Added quick unlock thanks to Grouxho and mwilky</item>
+        <item>Many more things, please check XDA or grifodev.ch</item>
+    </string-array>
+
+    <!--This will be the dialog title.
+    Put your own rom version and name.
+    Have fun-->
+    <string name="rom_version_for_changelog" translatable="false">BatMan-Rom V1.4.0</string>
+
+
+</resources>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+                  xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        android:title="@string/reboot_menu">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="true"
+            android:key="restart_power_menu"
+            android:summaryOff="@string/CurrentlyRemoved"
+            android:summaryOn="@string/RestartToggleSummary"
+            android:title="@string/RestartToggle" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="true"
+            android:key="reboot_recovery"
+            android:summaryOff="@string/CurrentlyRemoved"
+            android:summaryOn="@string/RecoveryToggleSummary"
+            android:title="@string/RecoveryToggle" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="false"
+            android:key="power_quick_reboot"
+            android:summaryOff="@string/CurrentlyRemoved"
+            android:summaryOn="@string/HotRebootToggleSummary"
+            android:title="@string/HotRebootToggle" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="false"
+            android:key="screencast"
+            android:summaryOff="@string/CurrentlyRemoved"
+            android:summaryOn="@string/ScreencastToggleSummary"
+            android:title="@string/ScreencastToggle" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="false"
+            android:key="screenshot"
+            android:summaryOff="@string/CurrentlyRemoved"
+            android:summaryOn="@string/ScreenshotToggleSummary"
+            android:title="@string/ScreenshotToggle" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="false"
+            android:key="flashlight_toggle"
+            android:summaryOff="@string/CurrentlyRemoved"
+            android:summaryOn="@string/FlashlightToggleSummary"
+            android:title="@string/FlashlightToggle" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="false"
+            android:key="power_emergency"
+            android:summaryOff="@string/CurrentlyRemoved"
+            android:summaryOn="@string/EmergencyToggleSummary"
+            android:title="@string/EmergencyToggle" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="false"
+            android:key="power_data"
+            android:summaryOff="@string/CurrentlyRemoved"
+            android:summaryOn="@string/DataToggleSummary"
+            android:title="@string/DataToggle" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="false"
+            android:key="power_airplane"
+            android:summaryOff="@string/CurrentlyRemoved"
+            android:summaryOn="@string/AirplaneToggleSummary"
+            android:title="@string/AirplaneToggle" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="false"
+            android:key="power_multiuser"
+            android:summaryOff="@string/CurrentlyRemoved"
+            android:summaryOn="@string/MultiUserToggleSummary"
+            android:title="@string/MultiUserToggle" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/toast_animation_title">
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference
+            android:defaultValue="1"
+            android:entries="@array/toast_animation_entries"
+            android:entryValues="@array/toast_animation_values"
+            android:key="animation_toast"
+            android:summary="%s"
+            android:title="@string/toast_animation"
+            app:rebootDevice="true" />
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference
+            android:defaultValue="0"
+            android:entries="@array/listview_animation_entries"
+            android:entryValues="@array/listview_animation_values"
+            android:key="listview_animation"
+            android:summary="%s"
+            android:title="@string/listview_animation_scrolling" />
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference
+            android:defaultValue="0"
+            android:entries="@array/listview_interpolator_entries"
+            android:entryValues="@array/listview_interpolator_values"
+            android:key="listview_interpolator"
+            android:summary="%s"
+            android:title="@string/listview_interpolator_scrolling" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/RebootBG">
+        <PreferenceScreen
+            android:summary="@string/RebootBGSummary"
+            android:title="@string/RebootBG">
+            <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+                android:defaultValue="false"
+                android:key="reboot_custom_bg"
+                android:summaryOff="@string/Disabled"
+                android:summaryOn="@string/Enabled"
+                android:title="@string/EnableCustomBG" />
+            <PreferenceCategory
+                android:dependency="reboot_custom_bg"
+                android:title="@string/BGPreferences">
+                <com.wubydax.romcontrol.v2.prefs.MyListPreference
+                    android:defaultValue="0"
+                    android:entries="@array/custom_bg_type_entries"
+                    android:entryValues="@array/custom_bg_type_values"
+                    android:key="reboot_custom_bg_type"
+                    android:title="@string/BGType"
+                    app:dependentValue="0" />
+                <com.wubydax.romcontrol.v2.prefs.MySeekBarPreference
+                    android:defaultValue="255"
+                    android:key="reboot_bg_opacity"
+                    android:title="@string/BGOpacity"
+                    app:maxValue="255"
+                    app:minValue="0" />
+            </PreferenceCategory>
+            <PreferenceCategory
+                android:dependency="reboot_custom_bg"
+                android:title="@string/ImagePreference">
+                <com.wubydax.romcontrol.v2.prefs.UriSelectionPreference
+                    android:key="reboot_bg_image_uri"
+                    android:title="@string/BGImage" />
+                <com.wubydax.romcontrol.v2.prefs.MyListPreference
+                    android:defaultValue="0"
+                    android:entries="@array/crop_entries"
+                    android:entryValues="@array/crop_values"
+                    android:key="reboot_bg_crop_type"
+                    android:title="@string/ImageScaling" />
+            </PreferenceCategory>
+            <PreferenceCategory
+                android:dependency="reboot_custom_bg"
+                android:title="@string/GradientPreferences">
+                <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference
+                    android:defaultValue="#00000000"
+                    android:dependency="reboot_custom_bg_type"
+                    android:key="reboot_bg_primary_color"
+                    android:title="@string/PrimaryColor" />
+                <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference
+                    android:defaultValue="#00000000"
+                    android:dependency="reboot_custom_bg_type"
+                    android:key="reboot_second_gradient_color"
+                    android:title="@string/SecondaryColor" />
+                <com.wubydax.romcontrol.v2.prefs.MyListPreference
+                    android:defaultValue="0"
+                    android:dependency="reboot_custom_bg_type"
+                    android:entries="@array/gradient_entries"
+                    android:entryValues="@array/gradient_values"
+                    android:key="reboot_bg_gradient_orientation"
+                    android:title="@string/GradientOrientation"/>
+            </PreferenceCategory>
+            
+        </PreferenceScreen>
+    </PreferenceCategory>
+
+</PreferenceScreen>

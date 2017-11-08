@@ -1,0 +1,4 @@
+#Fri Oct 13 13:34:44 CEST 2017
+base.0=/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

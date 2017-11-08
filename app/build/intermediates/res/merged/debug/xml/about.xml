@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+                  xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.wubydax.romcontrol.v2.prefs.ImageHeaderPreference app:imageSource="@drawable/bat_logo"/>
+
+    <PreferenceCategory
+        android:title="@string/PayPalDonation">
+        <PreferenceScreen
+            android:icon="@drawable/paypal"
+            android:summary="@string/PayPalSummary"
+            android:title="@string/PayPalTkkg">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.paypal.me/LucaGrifo" />
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:icon="@drawable/paypal"
+            android:summary="@string/PayPalSummary"
+            android:title="@string/PayPalMyellow">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.paypal.me/YUHS" />
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:icon="@drawable/paypal"
+            android:summary="@string/PayPalSummary"
+            android:title="@string/PayPalAlex">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.paypal.me/AlessandroCerv" />
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:icon="@drawable/paypal"
+            android:summary="@string/PayPalSummary"
+            android:title="@string/PayPalLeeXxXo">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.paypal.me/thefr3ak" />
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:icon="@drawable/paypal"
+            android:summary="@string/PayPalSummary"
+            android:title="@string/PayPalMisterEvo">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.paypal.me/LSommerfeld" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/AboutGrifoDev">
+        <PreferenceScreen
+            android:icon="@drawable/gd"
+            android:summary="@string/AboutGrifoDevSummary"
+            android:title="@string/AboutGrifoDev">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.grifodev.ch/" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/AboutPlayStore">
+        <PreferenceScreen
+            android:icon="@drawable/playstore"
+            android:summary="@string/AboutPlayStoreSummary"
+            android:title="@string/AboutPlayStore">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://play.google.com/store/apps/details?id=com.wubydax.romcontrol.bmpro" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+
+
+    <PreferenceCategory
+        android:title="@string/AboutAFH">
+        <PreferenceScreen
+            android:icon="@drawable/afh"
+            android:title="@string/AboutAFHRom">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.androidfilehost.com/?w=files&amp;flid=187401" />
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:icon="@drawable/afh"
+            android:title="@string/AboutAFHSuperStockKernel">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.androidfilehost.com/?w=files&amp;flid=179494" />
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:icon="@drawable/afh"
+            android:title="@string/AboutAFHCSC">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.androidfilehost.com/?w=files&amp;flid=179349" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/AboutXDA">
+        <PreferenceScreen
+            android:icon="@drawable/xda"
+            android:title="@string/AboutXDAS7Rom">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://forum.xda-developers.com/galaxy-s8/development/rom-batman-rom-v1-0-0-t3618388" />
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:icon="@drawable/xda"
+            android:title="@string/AboutXDAS7ERom">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://forum.xda-developers.com/galaxy-s8+/development/rom-batman-rom-v1-0-0-t3618374" />
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:icon="@drawable/xda"
+            android:title="@string/AboutXDAS7SuperStockKernel">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://forum.xda-developers.com/galaxy-s8/development/kernel-batstock-kernel-v1-0-1-t3606742" />
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:icon="@drawable/xda"
+            android:title="@string/AboutXDAS7ESuperStockKernel">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://forum.xda-developers.com/galaxy-s8+/development/kernel-batstock-kernel-v1-0-1-t3606744" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/AboutRomDevelopers">
+        <PreferenceScreen
+            android:summary="@string/AboutDeveloperSummary"
+            android:title="@string/AboutTkkg">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://forum.xda-developers.com/member.php?u=5899304" />
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:summary="@string/AboutDesignerSummary"
+            android:title="@string/AboutYellow">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://forum.xda-developers.com/member.php?u=2639714" />
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:summary="@string/AboutDesignerSummary"
+            android:title="@string/AboutAlex">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://forum.xda-developers.com/member.php?u=4947202" />
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:summary="@string/AboutWebsiteSummary"
+            android:title="@string/AboutLeeXxXo">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://forum.xda-developers.com/member.php?u=5760756" />
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:summary="@string/AboutSupporterSummary"
+            android:title="@string/AboutMisterEvo">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://forum.xda-developers.com/member.php?u=6499213" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/AboutTelegram">
+        <PreferenceScreen
+            android:icon="@drawable/telegram"
+            android:summary="@string/AboutTelegramChatSummary"
+            android:title="@string/AboutTelegramChat">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/joinchat/AAAAAENMB50C8jBS-B7KLA" />
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:icon="@drawable/telegram"
+            android:summary="@string/AboutTelegramChannelSummary"
+            android:title="@string/AboutTelegramChannel">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/BatManRom" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+                  xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        android:title="@string/GestureCategory" >
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference
+            android:defaultValue="999"
+            android:entries="@array/launcher_gesture_entries"
+            android:entryValues="@array/launcher_gesture_values"
+            android:key="doubletap"
+            android:summary="%s"
+            android:title="@string/DoubleTap"
+            app:isSilent="false"
+            app:packageNameToKill="com.sec.android.app.launcher" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

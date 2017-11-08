@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/home/tkkg1994/.android/build-cache/8eb0a7eef32209e438aac19610d7cd588766620a/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/nav_items_selector_light.xml",
+        "source": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/src/main/res/color/nav_items_selector_light.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/home/tkkg1994/.android/build-cache/8eb0a7eef32209e438aac19610d7cd588766620a/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/nav_items_selector_dark.xml",
+        "source": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/src/main/res/color/nav_items_selector_dark.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/tkkg1994/Android/Projects/BatMan-Control-Free/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/tkkg1994/.android/build-cache/667b5791147de56dc8fe38239244c267b3ee1ef7/output/res/color/abc_tint_seek_thumb.xml"
+    }
+]
