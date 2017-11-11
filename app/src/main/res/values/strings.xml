@@ -12,7 +12,7 @@
     <!--You should have received a copy of the GNU General Public License-->
     <!--along with this program.  If not, see <http://www.gnu.org/licenses/>.*/-->
 <resources>
-    <string name="app_name">BatControl Free</string>
+    <string name="app_name">IronControl Free</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="dialog_color_picker">Pick Color</string>
@@ -42,7 +42,7 @@
     <string name="backup_file_prefix_date_format" translatable="false">dd-MM-yy_HH:mm</string>
     <string name="backup_file_suffix" translatable="false">_RCBackup</string>
     <string name="restore_complete_toast">Restore complete</string>
-    <string name="about">Welcome to BatMan</string>
+    <string name="about">Welcome to IronMan</string>
     <string name="systemui_prefs">SystemUI Settings</string>
     <string name="phone_prefs">Phone Settings</string>
     <string name="framework_prefs">Framework Preferences</string>
@@ -259,6 +259,8 @@
     <string name="SMLogoBlue">BatMan Logo in Blue</string>
     <string name="SMLogoBlack">BatMan Logo in Black</string>
     <string name="CurrentlyRemoved">Currently removed</string>
+    <string name="PowerToggleSummary">Power toggle will be shown</string>
+    <string name="PowerToggle">Power Toggle</string>
     <string name="RestartToggleSummary">Restart toggle will be shown</string>
     <string name="RestartToggle">Restart Toggle</string>
     <string name="RecoveryToggleSummary">Reboot Recovery toggle will be shown</string>
@@ -347,6 +349,9 @@
     <string name="BlurEffectBackground">Background value of blur effect</string>
     <string name="BlurEffectDegree">Degree value of blur effect</string>
     <string name="BlurEffectColor">Change blur background color</string>
+    <string name="QuickTiles">Quick Settings Tiles</string>
+    <string name="QuickTilesPortrait">Number of Quick Tiles in portrait mode</string>
+    <string name="QuickTilesLandscape">Number of Quick Tiles in landscape mode</string>
     <string name="GearRebootCategory">Reboot visibility on top left corner</string>
     <string name="GearReboot">Reboot view visibility</string>
     <string name="GearRebootColor">Reboot view color</string>
@@ -406,6 +411,7 @@
     <string name="PullDownNotificationFooterBackground">Notification footer background color</string>
     <string name="PullDownNotificationTransparency">Allow notification background transparency</string>
     <string name="PullDownNotificationTransparencyColor">Notification transparency background color</string>
+    <string name="PullDownNotificationTransparencyAlpha">Notification background transparency level</string>
     <string name="PullDownNotificationScreenshotTextColor">Notification text color screenshot menu</string>
     <string name="PullDownNotificationMusicSummary">SMusic QuickPanel Custom Color Mod</string>
     <string name="PullDownNotificationMusicTitle">Customize SMusic QuickPanel and Lockscreen Buttons Colors + Text Colors</string>
@@ -629,21 +635,27 @@
     <string name="LockscreenClockMin">Show minutes</string>
     <string name="LockscreenClockSeconds">Show seconds</string>
     <string name="LockscreenClockDate">Show date</string>
+    <string name="LockscreenEnableColor">Color control on lockscreen</string>
     <string name="LockscreenClockColor">Change color of lockscreen clock</string>
     <string name="LockscreenClockColorHour">Change color for Hour text</string>
     <string name="LockscreenClockColorMin">Change color for Minute text</string>
     <string name="LockscreenClockColorSec">Change color for Second text</string>
+    <string name="LockscreenClockColorDate">Change color for Date text</string>
     <string name="LockscreenMiscTitle">Misc lockscreen settings</string>
     <string name="LockscreenMiscRotation">Lockscreen Rotation</string>
+    <string name="LockscreenAlarm">Alarm on lockscreen</string>
     <string name="LockscreenMiscAlarm">Next Alarm on lockscreen</string>
-    <string name="LockscreenMiscAlarmColor">Alarm Color on lockscreen</string>
+    <string name="LockscreenMiscAlarmTextColor">Alarm Text Color on lockscreen</string>
+    <string name="LockscreenMiscNoAlarmColor">No Alarm Color on lockscreen</string>
+    <string name="LockscreenMiscAlarmDayColor">Alarm Day Color on lockscreen</string>
+    <string name="LockscreenMiscAlarmTimeColor">Alarm Time Color on lockscreen</string>
     <string name="LockscreenMiscHelp">Hide lockscreen help text</string>
     <string name="LockscreenMiscCarrier">Use Custom Carrier Text</string>
     <string name="LockscreenMiscCarrierEdit">Edit carrier label</string>
     <string name="LockscreenMiscCarrierText">Carrier Custom Text</string>
     <string name="LockscreenMiscCarrierSet">Set Custom Text</string>
     <string name="LockscreenMiscWake">Fingerprint unlock without waking the display first</string>
-    <string name="LockscreenMiscClock">Switch between S8 and S7 clock</string>
+    <string name="LockscreenMiscClock">Switch between N8 and S7 clock</string>
     <string name="LockscreenMiscQuickSetting">Lock the pulldown menu on lockscreen</string>
     <string name="LockscreenAnalogTitle">Analog Clock</string>
     <string name="LockscreenAnalog">Analog clock on Lockscreen</string>
@@ -670,15 +682,18 @@
     <string name="LockscreenQuickUnlock">Quick Unlock</string>
     <string name="LockscreenScramble">Randomize pin keypad (works only on stock theme)</string>
     <string name="LockscreenReply">Reply messages from lockscreen</string>
-    <string name="ButtonTitle">Recent and Back button</string>
+    <string name="LockscreenIris">Iris preview on lockscreen</string>
+    <string name="ButtonTitle">Back and Recent button</string>
+    <string name="ButtonTitleBack">Back button</string>
+    <string name="ButtonTitleRecent">Recent button</string>
     <string name="ButtonSummary">Change settings related to hardware buttons</string>
-    <string name="ButtonBackPress">Long press Back button behaviour</string>
+    <string name="ButtonBackPress">Long press Back button to kill</string>
     <string name="ButtonRecentPress">Long press Recent button behaviour</string>
     <string name="ButtonBackBehaviour">Remove killed from the recent bar</string>
     <string name="ButtonRecentBehaviour0">Recent/Multi Window (default)</string>
     <string name="ButtonRecentBehaviour1">Kill Application</string>
     <string name="ButtonRecentBehaviour2">Menu</string>
-    <string name="ButtonBackBehaviour0">Menu (default)</string>
+    <string name="ButtonBackBehaviour0">Nothing (default)</string>
     <string name="ButtonBackBehaviour1">Kill Application</string>
     <string name="ClockTitle">Clock Settings</string>
     <string name="ClockSummary">Change settings related to statusbar clock</string>
@@ -723,16 +738,16 @@
     <string name="AboutGrifoDev">GrifoDev Community</string>
     <string name="AboutGrifoDevSummary">New self-made website with forum function</string>
     <string name="AboutXDA">XDA Links to Visit</string>
-    <string name="AboutXDAS7Rom" translatable="false">BatMan-Rom SM-G950X</string>
-    <string name="AboutXDAS7ERom" translatable="false">BatMan-Rom SM-G955X</string>
-    <string name="AboutXDAS7SuperKernel" translatable="false">SuperKernel SM-G930X</string>
-    <string name="AboutXDAS7ESuperKernel" translatable="false">SuperKernel SM-G935X</string>
-    <string name="AboutXDAS7SuperStockKernel" translatable="false">BatStock-Kernel SM-G950X</string>
-    <string name="AboutXDAS7ESuperStockKernel" translatable="false">BatStock-Kernel SM-G955X</string>
+    <string name="AboutXDAS7Rom" translatable="false">IronMan-Rom SM-G950X</string>
+    <string name="AboutXDAS7ERom" translatable="false">IronMan-Rom SM-G955X</string>
+    <string name="AboutXDAS7SuperKernel" translatable="false">IronKernel SM-G930X</string>
+    <string name="AboutXDAS7ESuperKernel" translatable="false">IronKernel SM-G935X</string>
+    <string name="AboutXDAS7SuperStockKernel" translatable="false">IronStock-Kernel SM-G950X</string>
+    <string name="AboutXDAS7ESuperStockKernel" translatable="false">IronStock-Kernel SM-G955X</string>
     <string name="AboutAFH">Download Links on AFH</string>
-    <string name="AboutAFHRom">Download latest BatMan-Rom</string>
-    <string name="AboutAFHSuperKernel">Download latest BatKernel</string>
-    <string name="AboutAFHSuperStockKernel">Download latest BatStock-Kernel</string>
+    <string name="AboutAFHRom">Download latest IronMan-Rom</string>
+    <string name="AboutAFHSuperKernel">Download latest IronKernel</string>
+    <string name="AboutAFHSuperStockKernel">Download latest IronStock-Kernel</string>
     <string name="AboutAFHCSC">Download latest CSC Selection</string>
     <string name="ContactUs">Contact Us</string>
     <string name="OurTeam">Our Team</string>

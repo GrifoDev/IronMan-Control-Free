@@ -830,6 +830,10 @@
         <item>6</item>
         <item>7</item>
         <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
     </string-array>
     <string-array name="qs_tile_column_landscape_values" translatable="false">
         <item>2</item>
@@ -839,6 +843,10 @@
         <item>6</item>
         <item>7</item>
         <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
     </string-array>
 
     <string-array name="qs_tile_row_entries" translatable="false">
@@ -854,6 +862,27 @@
         <item>4</item>
         <item>5</item>
         <item>6</item>
+    </string-array>
+
+    <string-array name="quick_qs_button_entries" translatable="false">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="quick_qs_button_values" translatable="false">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
     </string-array>
 
     <string-array name="immersive_entries">
