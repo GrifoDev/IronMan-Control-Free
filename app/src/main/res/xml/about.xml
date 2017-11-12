@@ -177,7 +177,7 @@
             android:title="@string/AboutTelegramChat">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://t.me/joinchat/AAAAAENMB50C8jBS-B7KLA" />
+                android:data="https://t.me/joinchat/AaNP4EMS-qK-b76LFQqqIQ" />
         </PreferenceScreen>
         <PreferenceScreen
             android:icon="@drawable/telegram"
@@ -185,7 +185,7 @@
             android:title="@string/AboutTelegramChannel">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://t.me/BatManRom" />
+                android:data="https://t.me/IronManRom" />
         </PreferenceScreen>
     </PreferenceCategory>
 

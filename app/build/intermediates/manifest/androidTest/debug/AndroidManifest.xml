@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.wubydax.romcontrol.batcontrolfree.test">
+    package="com.wubydax.romcontrol.ironcontrolfree.test">
 
     <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="26" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.wubydax.romcontrol.batcontrolfree"
+                     android:targetPackage="com.wubydax.romcontrol.ironcontrolfree"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.wubydax.romcontrol.batcontrolfree"/>
+                     android:label="Tests for com.wubydax.romcontrol.ironcontrolfree"/>
 </manifest>

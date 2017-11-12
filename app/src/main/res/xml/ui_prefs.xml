@@ -342,6 +342,15 @@
                 app:entryValuesList="@array/alarm_values"
                 app:isSilent="false"
                 app:packageNameToKill="com.android.systemui"/>
+            <com.wubydax.romcontrol.v2.prefs.ThumbnailListPreference
+                android:defaultValue="1"
+                android:key="switch_location"
+                android:title="@string/SignalLocationChooser"
+                app:drawableArray="@array/location_drawables"
+                app:entryList="@array/location_entries"
+                app:entryValuesList="@array/location_values"
+                app:isSilent="false"
+                app:packageNameToKill="com.android.systemui"/>
         </PreferenceCategory>
     </PreferenceScreen>
 

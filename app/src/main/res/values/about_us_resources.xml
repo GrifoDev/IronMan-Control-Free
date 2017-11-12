@@ -33,9 +33,9 @@
 
     <!--In this array you will put the titles for the URL strings that will open once a user clicked on the item-->
     <string-array name="about_contact_us_links" translatable="false">
-        <item>https://t.me/joinchat/AaNP4ENMB51qHfbK-B7KLA</item>
+        <item>https://t.me/joinchat/AaNP4EMS-qK-b76LFQqqIQ</item>
         <item>https://www.grifodev.ch</item>
-        <item>https://t.me/BatManRom</item>
+        <item>https://t.me/IronManRom</item>
     </string-array>
 
     <!--Team info arrays-->

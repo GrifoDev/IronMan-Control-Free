@@ -716,6 +716,8 @@
         <item>@drawable/alarm4</item>
         <item>@drawable/alarm5</item>
         <item>@drawable/alarm6</item>
+        <item>@drawable/alarm7</item>
+        <item>@drawable/alarm8</item>
     </array>
     <string-array name="alarm_entries">
         <item>@string/SignalAlarm1</item>
@@ -724,6 +726,8 @@
         <item>@string/SignalAlarm4</item>
         <item>@string/SignalAlarm5</item>
         <item>@string/SignalAlarm6</item>
+        <item>@string/SignalAlarm7</item>
+        <item>@string/SignalAlarm8</item>
     </string-array>
     <string-array name="alarm_values" translatable="false">
         <item>1</item>
@@ -732,6 +736,45 @@
         <item>4</item>
         <item>5</item>
         <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+    <array name="location_drawables">
+        <item>@drawable/location1</item>
+        <item>@drawable/location2</item>
+        <item>@drawable/location3</item>
+        <item>@drawable/location4</item>
+        <item>@drawable/location5</item>
+        <item>@drawable/location6</item>
+        <item>@drawable/location7</item>
+        <item>@drawable/location8</item>
+        <item>@drawable/location9</item>
+        <item>@drawable/location10</item>
+    </array>
+    <string-array name="location_entries">
+        <item>@string/SignalLocation1</item>
+        <item>@string/SignalLocation2</item>
+        <item>@string/SignalLocation3</item>
+        <item>@string/SignalLocation4</item>
+        <item>@string/SignalLocation5</item>
+        <item>@string/SignalLocation6</item>
+        <item>@string/SignalLocation7</item>
+        <item>@string/SignalLocation8</item>
+        <item>@string/SignalLocation9</item>
+        <item>@string/SignalLocation10</item>
+    </string-array>
+    <string-array name="location_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
     </string-array>
 
     <!-- Arrays for lockscreen timeout delay -->
