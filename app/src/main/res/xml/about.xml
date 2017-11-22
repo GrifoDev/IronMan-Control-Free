@@ -2,7 +2,7 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
                   xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <com.wubydax.romcontrol.v2.prefs.ImageHeaderPreference app:imageSource="@drawable/bat_logo"/>
+    <com.wubydax.romcontrol.v2.prefs.ImageHeaderPreference app:imageSource="@drawable/iron_logo"/>
 
     <PreferenceCategory
         android:title="@string/PayPalDonation">

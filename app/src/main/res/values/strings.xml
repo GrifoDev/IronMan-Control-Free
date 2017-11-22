@@ -654,6 +654,8 @@
     <string name="LockscreenClockColorMin">Change color for Minute text</string>
     <string name="LockscreenClockColorSec">Change color for Second text</string>
     <string name="LockscreenClockColorDate">Change color for Date text</string>
+    <string name="LockscreenCodeColor">Change unlock code color</string>
+    <string name="LockscreenHelpTextColor">Change help text color</string>
     <string name="LockscreenMiscTitle">Misc lockscreen settings</string>
     <string name="LockscreenMiscRotation">Lockscreen Rotation</string>
     <string name="LockscreenAlarm">Alarm on lockscreen</string>

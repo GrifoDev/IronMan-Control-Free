@@ -384,6 +384,18 @@
                 android:key="kg_clock_date_color"
                 android:summary="@string/WeatherColor"
                 android:title="@string/LockscreenClockColorDate" />
+            <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference
+                android:defaultValue="#fffafafa"
+                android:dependency="kg_enable_lockscreen_color"
+                android:key="keyguard_pindigit_custom_text_color"
+                android:summary="@string/WeatherColor"
+                android:title="@string/LockscreenCodeColor" />
+            <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference
+                android:defaultValue="#fffafafa"
+                android:dependency="kg_enable_lockscreen_color"
+                android:key="keyguard_helptext_custom_text_color"
+                android:summary="@string/WeatherColor"
+                android:title="@string/LockscreenHelpTextColor" />
         </PreferenceCategory>
         <PreferenceCategory
             android:title="@string/LockscreenAlarm">
@@ -487,15 +499,15 @@
                 android:title="@string/LockscreenScramble" />
             <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
                 android:defaultValue="false"
+                android:key="lock_screen_allow_input"
                 android:summaryOff="@string/Disabled"
                 android:summaryOn="@string/Enabled"
-                android:key="lock_screen_allow_input"
                 android:title="@string/LockscreenReply" />
             <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
                 android:defaultValue="false"
+                android:key="hide_iris"
                 android:summaryOff="@string/Shown"
                 android:summaryOn="@string/Hidden"
-                android:key="hide_iris"
                 android:title="@string/LockscreenIris" />
         </PreferenceCategory>
     </PreferenceScreen>
