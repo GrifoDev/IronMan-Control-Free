@@ -60,18 +60,6 @@
         </PreferenceScreen>
     </PreferenceCategory>
 
-    <PreferenceCategory
-        android:title="@string/AboutPlayStore">
-        <PreferenceScreen
-            android:icon="@drawable/playstore"
-            android:summary="@string/AboutPlayStoreSummary"
-            android:title="@string/AboutPlayStore">
-            <intent
-                android:action="android.intent.action.VIEW"
-                android:data="https://play.google.com/store/apps/details?id=com.wubydax.romcontrol.bmpro" />
-        </PreferenceScreen>
-    </PreferenceCategory>
-
 
     <PreferenceCategory
         android:title="@string/AboutAFH">
@@ -80,53 +68,47 @@
             android:title="@string/AboutAFHRom">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://www.androidfilehost.com/?w=files&amp;flid=187401" />
+                android:data="https://www.androidfilehost.com/?w=files&amp;flid=224749" />
         </PreferenceScreen>
         <PreferenceScreen
             android:icon="@drawable/afh"
-            android:title="@string/AboutAFHSuperStockKernel">
+            android:title="@string/AboutAFHSuperKernel">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://www.androidfilehost.com/?w=files&amp;flid=179494" />
+                android:data="https://www.androidfilehost.com/?w=files&amp;flid=222085" />
         </PreferenceScreen>
         <PreferenceScreen
             android:icon="@drawable/afh"
             android:title="@string/AboutAFHCSC">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://www.androidfilehost.com/?w=files&amp;flid=179349" />
+                android:data="https://www.androidfilehost.com/?w=files&amp;flid=231378" />
         </PreferenceScreen>
     </PreferenceCategory>
+
 
     <PreferenceCategory
         android:title="@string/AboutXDA">
         <PreferenceScreen
             android:icon="@drawable/xda"
-            android:title="@string/AboutXDAS7Rom">
-            <intent
-                android:action="android.intent.action.VIEW"
-                android:data="https://forum.xda-developers.com/galaxy-s8/development/rom-batman-rom-v1-0-0-t3618388" />
-        </PreferenceScreen>
-        <PreferenceScreen
-            android:icon="@drawable/xda"
             android:title="@string/AboutXDAS7ERom">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://forum.xda-developers.com/galaxy-s8+/development/rom-batman-rom-v1-0-0-t3618374" />
+                android:data="https://forum.xda-developers.com/galaxy-note-8/development/rom-ironman-rom-v1-0-0-t3709349" />
         </PreferenceScreen>
         <PreferenceScreen
             android:icon="@drawable/xda"
-            android:title="@string/AboutXDAS7SuperStockKernel">
+            android:title="@string/AboutXDAS7Rom">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://forum.xda-developers.com/galaxy-s8/development/kernel-batstock-kernel-v1-0-1-t3606742" />
+                android:data="https://forum.xda-developers.com/galaxy-s8/samsung-galaxy-s8--s8-cross-device-development/rom-ironman-rom-v1-0-0-t3710138" />
         </PreferenceScreen>
         <PreferenceScreen
             android:icon="@drawable/xda"
-            android:title="@string/AboutXDAS7ESuperStockKernel">
+            android:title="@string/AboutXDAS7SuperKernel">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://forum.xda-developers.com/galaxy-s8+/development/kernel-batstock-kernel-v1-0-1-t3606744" />
+                android:data="https://forum.xda-developers.com/galaxy-note-8/development/kernel-ironkernel-v1-0-1-t3679462" />
         </PreferenceScreen>
     </PreferenceCategory>
 
@@ -174,10 +156,26 @@
         <PreferenceScreen
             android:icon="@drawable/telegram"
             android:summary="@string/AboutTelegramChatSummary"
-            android:title="@string/AboutTelegramChat">
+            android:title="@string/AboutTelegramChatN8">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://t.me/joinchat/AaNP4EMS-qK-b76LFQqqIQ" />
+                android:data="https://t.me/joinchat/AaNP4EaMI4PgxP4rwLEstg" />
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:icon="@drawable/telegram"
+            android:summary="@string/AboutTelegramChatSummary"
+            android:title="@string/AboutTelegramChatS8">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/joinchat/AaNP4E51FnuFP-WsYWEBiw" />
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:icon="@drawable/telegram"
+            android:summary="@string/AboutTelegramChatSummary"
+            android:title="@string/AboutTelegramChatS7">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/joinchat/AaNP4ETrb1SPY3SuB87GYg" />
         </PreferenceScreen>
         <PreferenceScreen
             android:icon="@drawable/telegram"

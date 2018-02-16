@@ -744,7 +744,9 @@
     <string name="AboutSupporterSummary">Supporter</string>
     <string name="AboutRomDevelopers">Rom Developers</string>
     <string name="AboutTelegram">Telegram Links</string>
-    <string name="AboutTelegramChat">Telegram Chat</string>
+    <string name="AboutTelegramChatN8">Telegram Chat N8</string>
+    <string name="AboutTelegramChatS8">Telegram Chat N8</string>
+    <string name="AboutTelegramChatS7">Telegram Chat N8</string>
     <string name="AboutTelegramChannel">Telegram News Channel</string>
     <string name="AboutTelegramChatSummary">Chat with us about latest Rom stuff</string>
     <string name="AboutTelegramChannelSummary">Get latest Information about the Rom</string>
@@ -753,9 +755,9 @@
     <string name="AboutGrifoDev">GrifoDev Community</string>
     <string name="AboutGrifoDevSummary">New self-made website with forum function</string>
     <string name="AboutXDA">XDA Links to Visit</string>
-    <string name="AboutXDAS7Rom" translatable="false">IronMan-Rom SM-G950X</string>
-    <string name="AboutXDAS7ERom" translatable="false">IronMan-Rom SM-G955X</string>
-    <string name="AboutXDAS7SuperKernel" translatable="false">IronKernel SM-G930X</string>
+    <string name="AboutXDAS7Rom" translatable="false">IronMan-Rom SM-G95XF/FD/N</string>
+    <string name="AboutXDAS7ERom" translatable="false">IronMan-Rom SM-N950F/FD/N</string>
+    <string name="AboutXDAS7SuperKernel" translatable="false">IronKernel SM-G95XF/FD/N SM-N950F/FD/N</string>
     <string name="AboutXDAS7ESuperKernel" translatable="false">IronKernel SM-G935X</string>
     <string name="AboutXDAS7SuperStockKernel" translatable="false">IronStock-Kernel SM-G950X</string>
     <string name="AboutXDAS7ESuperStockKernel" translatable="false">IronStock-Kernel SM-G955X</string>
