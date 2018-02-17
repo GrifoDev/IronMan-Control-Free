@@ -745,8 +745,8 @@
     <string name="AboutRomDevelopers">Rom Developers</string>
     <string name="AboutTelegram">Telegram Links</string>
     <string name="AboutTelegramChatN8">Telegram Chat N8</string>
-    <string name="AboutTelegramChatS8">Telegram Chat N8</string>
-    <string name="AboutTelegramChatS7">Telegram Chat N8</string>
+    <string name="AboutTelegramChatS8">Telegram Chat S8/S8+</string>
+    <string name="AboutTelegramChatS7">Telegram Chat S7/S7e</string>
     <string name="AboutTelegramChannel">Telegram News Channel</string>
     <string name="AboutTelegramChatSummary">Chat with us about latest Rom stuff</string>
     <string name="AboutTelegramChannelSummary">Get latest Information about the Rom</string>
