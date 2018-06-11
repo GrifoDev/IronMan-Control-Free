@@ -371,11 +371,13 @@
         <item>@string/RightClock</item>
         <item>@string/CenterClock</item>
         <item>@string/LeftClock</item>
+        <item>@string/Hidden</item>
     </string-array>
     <string-array name="clock_style_values" translatable="false">
         <item>0</item>
         <item>1</item>
         <item>2</item>
+        <item>3</item>
     </string-array>
 
     <string-array name="clock_format_entries">
@@ -710,14 +712,13 @@
     </string-array>
 
     <array name="alarm_drawables">
-        <item>@drawable/alarm1</item>
-        <item>@drawable/alarm2</item>
-        <item>@drawable/alarm3</item>
-        <item>@drawable/alarm4</item>
-        <item>@drawable/alarm5</item>
-        <item>@drawable/alarm6</item>
-        <item>@drawable/alarm7</item>
-        <item>@drawable/alarm8</item>
+        <item>@drawable/alarm_1</item>
+        <item>@drawable/alarm_2</item>
+        <item>@drawable/alarm_3</item>
+        <item>@drawable/alarm_4</item>
+        <item>@drawable/alarm_5</item>
+        <item>@drawable/alarm_6</item>
+        <item>@drawable/alarm_7</item>
     </array>
     <string-array name="alarm_entries">
         <item>@string/SignalAlarm1</item>
@@ -727,7 +728,6 @@
         <item>@string/SignalAlarm5</item>
         <item>@string/SignalAlarm6</item>
         <item>@string/SignalAlarm7</item>
-        <item>@string/SignalAlarm8</item>
     </string-array>
     <string-array name="alarm_values" translatable="false">
         <item>1</item>

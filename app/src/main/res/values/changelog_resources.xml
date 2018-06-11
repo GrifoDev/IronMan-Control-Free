@@ -9,16 +9,14 @@
     This order is how they will appear in the dialog
     Make any order you want from top to bottom-->
     <string-array name="changelog_items" translatable="false">
-        <item>Rebased on latest BRA8 update</item>
-        <item>Updated to latest 15.4 Magisk</item>
-        <item>Updated Xposed to 89.2</item>
-        <item>Find the full changelog on www.grifodev.ch</item>
+        <item>Oreo release V2.0.0</item>
+        <item>Please check www.grifodev.ch for detailed information</item>
     </string-array>
 
     <!--This will be the dialog title.
     Put your own rom version and name.
     Have fun-->
-    <string name="rom_version_for_changelog" translatable="false">IronMan-Rom V1.2.0</string>
+    <string name="rom_version_for_changelog" translatable="false">IronMan-Rom V2.0.0</string>
 
 
 </resources>

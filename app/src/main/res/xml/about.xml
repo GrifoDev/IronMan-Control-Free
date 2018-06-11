@@ -86,7 +86,6 @@
         </PreferenceScreen>
     </PreferenceCategory>
 
-
     <PreferenceCategory
         android:title="@string/AboutXDA">
         <PreferenceScreen
@@ -160,22 +159,6 @@
             <intent
                 android:action="android.intent.action.VIEW"
                 android:data="https://t.me/joinchat/AaNP4EaMI4PgxP4rwLEstg" />
-        </PreferenceScreen>
-        <PreferenceScreen
-            android:icon="@drawable/telegram"
-            android:summary="@string/AboutTelegramChatSummary"
-            android:title="@string/AboutTelegramChatS8">
-            <intent
-                android:action="android.intent.action.VIEW"
-                android:data="https://t.me/joinchat/AaNP4E51FnuFP-WsYWEBiw" />
-        </PreferenceScreen>
-        <PreferenceScreen
-            android:icon="@drawable/telegram"
-            android:summary="@string/AboutTelegramChatSummary"
-            android:title="@string/AboutTelegramChatS7">
-            <intent
-                android:action="android.intent.action.VIEW"
-                android:data="https://t.me/joinchat/AaNP4ETrb1SPY3SuB87GYg" />
         </PreferenceScreen>
         <PreferenceScreen
             android:icon="@drawable/telegram"

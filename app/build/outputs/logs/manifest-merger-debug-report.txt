@@ -4,21 +4,24 @@ ADDED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/And
 INJECTED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/AndroidManifest.xml:2:1-48:12
 INJECTED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/AndroidManifest.xml:2:1-48:12
 INJECTED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/AndroidManifest.xml:2:1-48:12
-MERGED from [com.android.support:design:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f6c391752bb8dd6236a3d95588a3ee0e/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/303517cf8d090a28b3792b6f55528047/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:transition:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/108ce1dd588205681226b1d0a49a2a56/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0dac87c50c323354e5a61fa5e72629b5/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/1a55148c0491bad9def51385c5123620/AndroidManifest.xml:17:1-28:12
-MERGED from [de.hdodenhof:circleimageview:2.0.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/circleimageview-2.0.0.aar/e1ed2aff8af0b5c760e2de5e7c9be3f7/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8e6f6a8bae8bf34d8ca9830cca9ce779/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a75bbedb724c5a891d7d0f5a84b3d433/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8c57423ccc97cb6a5a411d63ac8366fa/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/08129e9b9e4db179e84ae05ab77011a3/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/3ea189139a9a14bd1b7924236fb11715/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/7937fb21f6bcfe05a75d3bdd86e2714f/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/01e7787550e42de5ab2685e6898094a1/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9c488eaa4e3ab958b6bbb37642ccceb0/AndroidManifest.xml:17:1-31:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/56941d843c262ca50cedb9fc0f5a79f6/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:design:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/21e113c1fc8fee70cad7751ebaa49f0a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3e09d0945efd40d0708bf53c93f4f159/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/49025cb876a9698644417688e7af16f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/81f8b5148093a72d33344d1789942ec9/AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.0.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/circleimageview-2.0.0.aar/e1a2159fb0206c3023697315e217fecf/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/550db4f0b63f3ba7e688b5ddb142f14a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c1bc9e2ffb9ae982c65cb89700c12c68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/5fbeb72968984fcee7c3bf57a686b308/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ff87be66b7682c1862bcc8b8e95d6720/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f2d709839454347b95cb17595c7a1acc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a63b8e3d867c086d16a6cddc807cc280/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/d56d186c599534f4121df290e82d4163/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b2ff9d47d455ecdcf844264c72a3819a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1c316e3486565981e2fd9cab3dc58283/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6e3b6e845dcbf8e43c8aa427d5044f58/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7b4dff644bb50dc871ae4bd97a700b1c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8fc35f50d10d63de0a969566cb827ec8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d713e86eef9830b5a4d17161e017544a/AndroidManifest.xml:17:1-22:12
 INJECTED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/AndroidManifest.xml:2:1-48:12
 INJECTED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/AndroidManifest.xml:2:1-48:12
 INJECTED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/AndroidManifest.xml:2:1-48:12
@@ -72,36 +75,8 @@ ADDED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/And
 		ADDED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/AndroidManifest.xml:14:22-64
 application
 ADDED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/AndroidManifest.xml:16:5-46:19
-MERGED from [com.android.support:design:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f6c391752bb8dd6236a3d95588a3ee0e/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:design:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f6c391752bb8dd6236a3d95588a3ee0e/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/303517cf8d090a28b3792b6f55528047/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/303517cf8d090a28b3792b6f55528047/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:transition:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/108ce1dd588205681226b1d0a49a2a56/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/108ce1dd588205681226b1d0a49a2a56/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0dac87c50c323354e5a61fa5e72629b5/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0dac87c50c323354e5a61fa5e72629b5/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/1a55148c0491bad9def51385c5123620/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/1a55148c0491bad9def51385c5123620/AndroidManifest.xml:22:5-26:19
-MERGED from [de.hdodenhof:circleimageview:2.0.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/circleimageview-2.0.0.aar/e1ed2aff8af0b5c760e2de5e7c9be3f7/AndroidManifest.xml:9:5-20
-MERGED from [de.hdodenhof:circleimageview:2.0.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/circleimageview-2.0.0.aar/e1ed2aff8af0b5c760e2de5e7c9be3f7/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8e6f6a8bae8bf34d8ca9830cca9ce779/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8e6f6a8bae8bf34d8ca9830cca9ce779/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a75bbedb724c5a891d7d0f5a84b3d433/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a75bbedb724c5a891d7d0f5a84b3d433/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8c57423ccc97cb6a5a411d63ac8366fa/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8c57423ccc97cb6a5a411d63ac8366fa/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/08129e9b9e4db179e84ae05ab77011a3/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/08129e9b9e4db179e84ae05ab77011a3/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/3ea189139a9a14bd1b7924236fb11715/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/3ea189139a9a14bd1b7924236fb11715/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/7937fb21f6bcfe05a75d3bdd86e2714f/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/7937fb21f6bcfe05a75d3bdd86e2714f/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/01e7787550e42de5ab2685e6898094a1/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/01e7787550e42de5ab2685e6898094a1/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9c488eaa4e3ab958b6bbb37642ccceb0/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9c488eaa4e3ab958b6bbb37642ccceb0/AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/56941d843c262ca50cedb9fc0f5a79f6/AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/56941d843c262ca50cedb9fc0f5a79f6/AndroidManifest.xml:24:5-28:19
+MERGED from [de.hdodenhof:circleimageview:2.0.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/circleimageview-2.0.0.aar/e1a2159fb0206c3023697315e217fecf/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.0.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/circleimageview-2.0.0.aar/e1a2159fb0206c3023697315e217fecf/AndroidManifest.xml:9:5-20
 	android:supportsRtl
 		ADDED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/AndroidManifest.xml:22:9-35
 	android:label
@@ -136,7 +111,7 @@ ADDED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/And
 		ADDED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/AndroidManifest.xml:29:13-45
 	android:name
 		ADDED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/AndroidManifest.xml:28:13-41
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.MULTIWINDOW_LAUNCHER
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.MULTIWINDOW_LAUNCHER
 ADDED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/AndroidManifest.xml:30:13-35:29
 action#android.intent.action.MAIN
 ADDED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/AndroidManifest.xml:31:17-68
@@ -166,40 +141,44 @@ uses-sdk
 INJECTED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/AndroidManifest.xml
 INJECTED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:design:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f6c391752bb8dd6236a3d95588a3ee0e/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f6c391752bb8dd6236a3d95588a3ee0e/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/303517cf8d090a28b3792b6f55528047/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/303517cf8d090a28b3792b6f55528047/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:transition:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/108ce1dd588205681226b1d0a49a2a56/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/108ce1dd588205681226b1d0a49a2a56/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0dac87c50c323354e5a61fa5e72629b5/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0dac87c50c323354e5a61fa5e72629b5/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/1a55148c0491bad9def51385c5123620/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/1a55148c0491bad9def51385c5123620/AndroidManifest.xml:20:5-44
-MERGED from [de.hdodenhof:circleimageview:2.0.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/circleimageview-2.0.0.aar/e1ed2aff8af0b5c760e2de5e7c9be3f7/AndroidManifest.xml:5:5-7:41
-MERGED from [de.hdodenhof:circleimageview:2.0.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/circleimageview-2.0.0.aar/e1ed2aff8af0b5c760e2de5e7c9be3f7/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8e6f6a8bae8bf34d8ca9830cca9ce779/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8e6f6a8bae8bf34d8ca9830cca9ce779/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a75bbedb724c5a891d7d0f5a84b3d433/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a75bbedb724c5a891d7d0f5a84b3d433/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8c57423ccc97cb6a5a411d63ac8366fa/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8c57423ccc97cb6a5a411d63ac8366fa/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/08129e9b9e4db179e84ae05ab77011a3/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/08129e9b9e4db179e84ae05ab77011a3/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/3ea189139a9a14bd1b7924236fb11715/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/3ea189139a9a14bd1b7924236fb11715/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/7937fb21f6bcfe05a75d3bdd86e2714f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/7937fb21f6bcfe05a75d3bdd86e2714f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/01e7787550e42de5ab2685e6898094a1/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/01e7787550e42de5ab2685e6898094a1/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9c488eaa4e3ab958b6bbb37642ccceb0/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9c488eaa4e3ab958b6bbb37642ccceb0/AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/56941d843c262ca50cedb9fc0f5a79f6/AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/56941d843c262ca50cedb9fc0f5a79f6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:design:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/21e113c1fc8fee70cad7751ebaa49f0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/21e113c1fc8fee70cad7751ebaa49f0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3e09d0945efd40d0708bf53c93f4f159/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3e09d0945efd40d0708bf53c93f4f159/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/49025cb876a9698644417688e7af16f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/49025cb876a9698644417688e7af16f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/81f8b5148093a72d33344d1789942ec9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/81f8b5148093a72d33344d1789942ec9/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.0.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/circleimageview-2.0.0.aar/e1a2159fb0206c3023697315e217fecf/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.0.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/circleimageview-2.0.0.aar/e1a2159fb0206c3023697315e217fecf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/550db4f0b63f3ba7e688b5ddb142f14a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/550db4f0b63f3ba7e688b5ddb142f14a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c1bc9e2ffb9ae982c65cb89700c12c68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c1bc9e2ffb9ae982c65cb89700c12c68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/5fbeb72968984fcee7c3bf57a686b308/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/5fbeb72968984fcee7c3bf57a686b308/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ff87be66b7682c1862bcc8b8e95d6720/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ff87be66b7682c1862bcc8b8e95d6720/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f2d709839454347b95cb17595c7a1acc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f2d709839454347b95cb17595c7a1acc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a63b8e3d867c086d16a6cddc807cc280/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a63b8e3d867c086d16a6cddc807cc280/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/d56d186c599534f4121df290e82d4163/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/d56d186c599534f4121df290e82d4163/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b2ff9d47d455ecdcf844264c72a3819a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b2ff9d47d455ecdcf844264c72a3819a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1c316e3486565981e2fd9cab3dc58283/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1c316e3486565981e2fd9cab3dc58283/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6e3b6e845dcbf8e43c8aa427d5044f58/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6e3b6e845dcbf8e43c8aa427d5044f58/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7b4dff644bb50dc871ae4bd97a700b1c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7b4dff644bb50dc871ae4bd97a700b1c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8fc35f50d10d63de0a969566cb827ec8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8fc35f50d10d63de0a969566cb827ec8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d713e86eef9830b5a4d17161e017544a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d713e86eef9830b5a4d17161e017544a/AndroidManifest.xml:20:5-44
 INJECTED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/AndroidManifest.xml
 INJECTED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/AndroidManifest.xml
-	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f6c391752bb8dd6236a3d95588a3ee0e/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/AndroidManifest.xml
 		ADDED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/AndroidManifest.xml
@@ -208,39 +187,3 @@ INJECTED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/
 		INJECTED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/AndroidManifest.xml
 		ADDED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/AndroidManifest.xml
 		INJECTED from /home/tkkg1994/Android/Projects/IronMan-Control-Free/app/src/main/AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f6c391752bb8dd6236a3d95588a3ee0e/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/303517cf8d090a28b3792b6f55528047/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/303517cf8d090a28b3792b6f55528047/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:transition:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/108ce1dd588205681226b1d0a49a2a56/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:transition:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/108ce1dd588205681226b1d0a49a2a56/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0dac87c50c323354e5a61fa5e72629b5/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0dac87c50c323354e5a61fa5e72629b5/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/1a55148c0491bad9def51385c5123620/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/1a55148c0491bad9def51385c5123620/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8e6f6a8bae8bf34d8ca9830cca9ce779/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8e6f6a8bae8bf34d8ca9830cca9ce779/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a75bbedb724c5a891d7d0f5a84b3d433/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a75bbedb724c5a891d7d0f5a84b3d433/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8c57423ccc97cb6a5a411d63ac8366fa/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8c57423ccc97cb6a5a411d63ac8366fa/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/08129e9b9e4db179e84ae05ab77011a3/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/08129e9b9e4db179e84ae05ab77011a3/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/3ea189139a9a14bd1b7924236fb11715/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/3ea189139a9a14bd1b7924236fb11715/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/7937fb21f6bcfe05a75d3bdd86e2714f/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/7937fb21f6bcfe05a75d3bdd86e2714f/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/01e7787550e42de5ab2685e6898094a1/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/01e7787550e42de5ab2685e6898094a1/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9c488eaa4e3ab958b6bbb37642ccceb0/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9c488eaa4e3ab958b6bbb37642ccceb0/AndroidManifest.xml:26:9-28:38
-	android:value
-		ADDED from [com.android.support:design:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f6c391752bb8dd6236a3d95588a3ee0e/AndroidManifest.xml:28:13-35
-	android:name
-		ADDED from [com.android.support:design:26.1.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f6c391752bb8dd6236a3d95588a3ee0e/AndroidManifest.xml:27:13-51
-meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/56941d843c262ca50cedb9fc0f5a79f6/AndroidManifest.xml:25:9-27:47
-	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/56941d843c262ca50cedb9fc0f5a79f6/AndroidManifest.xml:27:13-44
-	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/tkkg1994/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/56941d843c262ca50cedb9fc0f5a79f6/AndroidManifest.xml:26:13-58
